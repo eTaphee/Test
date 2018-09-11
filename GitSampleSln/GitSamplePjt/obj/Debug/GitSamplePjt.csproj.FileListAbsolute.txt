@@ -1,0 +1,2 @@
+D:\이태희\프로젝트\GitSampleSln\GitSamplePjt\bin\Debug\GitSamplePjt.exe.config
+C:\Users\taehee\source\repos\Test\GitSampleSln\GitSamplePjt\bin\Debug\GitSamplePjt.exe.config
